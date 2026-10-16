@@ -12,7 +12,7 @@
 它会打印五轮对话，每一轮都显示：注入给模型的块、模型这轮的输出、
 擦干净之后真正送给用户的正文、以及使用者能看到的那条动作痕迹。
 
-由 Elle 与 Matt 共同整理（Elle & Matt, 2026, MIT）。
+由 Elle 与 Matt 共同整理（Elle & Matt, 2026）。软件许可证见 LICENSE（PolyForm Noncommercial 1.0.0）。
 """
 
 from __future__ import annotations
